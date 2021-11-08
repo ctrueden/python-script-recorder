@@ -62,7 +62,7 @@
 	</mailingLists>
 
 	<scm>
-		<connection>scm:git:git://github.com/ctrueden/python-script-recorder</connection>
+		<connection>scm:git:https://github.com/ctrueden/python-script-recorder</connection>
 		<developerConnection>scm:git:git@github.com:ctrueden/python-script-recorder</developerConnection>
 		<tag>HEAD</tag>
 		<url>https://github.com/ctrueden/python-script-recorder</url>
